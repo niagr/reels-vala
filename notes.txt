@@ -1,0 +1,10 @@
+bugs:
+	-in load_cached_movies() condition to chech file type doesn't work
+	
+changelog:
+	8 - made poster sizes bigger
+	7 - added functionality to hide the main window when a movie is played, and unhide it when the movie player is closed
+	6 - added functionality to open movie files using Totem
+	5 - Added open button and ellipsizing labels.
+	4 - changed variable names in GUIController.create_item_for_movie()
+	3 - Added some nice GUI layout changes
